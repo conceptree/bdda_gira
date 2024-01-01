@@ -7,7 +7,9 @@ A more detailed description and step by step can be seen in the python notebook 
 
 Links of interest:
 https://github.com/conceptree/bigdata_docker 
+
 https://www.gira-bicicletasdelisboa.pt/
+
 https://www.visualcrossing.com/
 
 
