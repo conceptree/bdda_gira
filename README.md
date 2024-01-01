@@ -6,6 +6,7 @@ The Big Data Hadoop ecosystem started to be studied in the project on top of Lis
 A more detailed description and step by step can be seen in the python notebook in this root folder written in google coLab.
 
 Links of interest:
+
 https://github.com/conceptree/bigdata_docker 
 
 https://www.gira-bicicletasdelisboa.pt/
